@@ -1,3 +1,58 @@
+body {
+    background-color: #eeffff;
+}
+
 h1 {
     color: #e858d4;
+    text-align: center;
+    font-size: 44px;
+}
+
+
+div .climbing{
+    margin:auto;
+    display: block;
+    width: 444px;
+    height: 555px;
+    
+}
+
+div p.excited{
+    margin: auto;
+    
+    width: 444px;
+}
+
+
+
+h2 {
+   text-align: center;
+}
+
+
+
+table {
+    margin: auto;
+}
+
+
+
+div .JID {
+    width: 200px;
+    height: 200px;
+}
+
+div .redveil {
+    width: 200px;
+    height: 200px;
+}
+
+div .roc{
+    width: 200px;
+    height: 200px;
+}
+
+div p.albums {
+    margin: auto;
+    width: 595px;
 }
