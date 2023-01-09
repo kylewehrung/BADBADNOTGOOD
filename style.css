@@ -14,22 +14,25 @@ div .climbing{
     display: block;
     width: 444px;
     height: 555px;
-    
+    border-style: outset;
+    border-width: 3px;
 }
 
 div p.excited{
     margin: auto;
-    
     width: 444px;
+    padding-top: 5px;
 }
-
 
 
 h2 {
    text-align: center;
+   font-size: 26px;
 }
 
-
+ .padding {
+    padding-top: 35px;
+}
 
 table {
     margin: auto;
@@ -52,7 +55,28 @@ div .roc{
     height: 200px;
 }
 
+div .saba {
+    width: 200px;
+    height: 200px;
+}
+
+div .denzel {
+    width: 200px;
+    height: 200px;
+}
+
+div .largeThief {
+    width: 200px;
+    height: 200px;
+}
+
+div .kendrick {
+    width: 200px;
+    height: 200px;
+}
+
 div p.albums {
     margin: auto;
-    width: 595px;
+    width: 710px;
+    padding-top: 5px;
 }
